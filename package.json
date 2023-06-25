@@ -1,0 +1,10 @@
+{
+  "name": "webview-memory-leak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Or Antonio Orsatti <antonio@10play.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.72.0"
+  }
+}
